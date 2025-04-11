@@ -2,7 +2,7 @@
 
 A modern twist on the classic **Simon Game**, built with HTML, CSS, and JavaScript. Repeat the sequence shown by the computer — each round adds a new color to the pattern. How far can your memory take you?
 
-![Simon Game Screenshot](./screenshot.png) <!-- Replace with actual image path if you have one -->
+![Simon Game Screenshot](./Screenshot.png) <!-- Replace with actual image path if you have one -->
 
 ## 🚀 Live Demo
 
