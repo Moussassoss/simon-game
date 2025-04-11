@@ -6,7 +6,7 @@ A modern twist on the classic **Simon Game**, built with HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-👉 [Play the Game](https://your-username.github.io/simon-game/)  
+👉 [Play the Game](https://moussassoss.github.io/simon-game/)  
 <!-- Replace "your-username" with your actual GitHub username -->
 
 ---
